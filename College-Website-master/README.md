@@ -12,8 +12,6 @@
 - Students can check their fees using this website
 
 
-
-https://jaydipsinh-collegewebsite.netlify.app
 ## Tech Stack
 
 **Client:** HTML, CSS, JAVASCRIPT
@@ -22,15 +20,15 @@ https://jaydipsinh-collegewebsite.netlify.app
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jaydipsinhsolanki9297@gmail.com
+If you have any feedback, please reach out to us at prathameshdeokar.sae.comp@gmail.com
 
 
 ## Authors
 
-- [@jaydipsinh13](https://www.github.com/jaydipsinh13)
+- [@PRATHAMESH DEOKAR](https://www.github.com/prathamgithubrange)
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydipsinhsolanki/)
+[![linkedin] ( https://www.linkedin.com/in/prathamesh-deokar-0aa4a521b )
 
 
